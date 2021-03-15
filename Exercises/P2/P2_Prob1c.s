@@ -11,4 +11,9 @@ addi x11, x11, 15 #define integer register 11 as F
 srli x10 x10 4 #shift right the first hex algarism
 and x10 x10 x11 
 
+li x17 1
+ecall
+
+li x17 10
+ecall
 

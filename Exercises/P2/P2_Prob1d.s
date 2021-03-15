@@ -1,6 +1,6 @@
 #--------------------------------------------------------------------------------------------------+
-# Exercise 4|Invert the ninth bit of the decimal 824, the resulting number is stored in X12		   |
-#           |                  																	   |
+# Exercise 4|Invert the ninth bit of the decimal 824, the resulting number is stored in X12		     |
+#           |                  																	                                   |
 #--------------------------------------------------------------------------------------------------+
 # Author: Joao Barreiros C. Rodrigues (Joao-Ex-Machina)                                            |
 # Date: 15 March 2021                                                                              |

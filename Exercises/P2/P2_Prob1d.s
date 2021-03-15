@@ -1,5 +1,5 @@
 #--------------------------------------------------------------------------------------------------+
-# Exercise 4|Invert the ninth bit of the decimal 824, the resulting number is stored in X12        |
+# Exercise 4|Invert the ninth bit of the decimal 824, the resulting number is stored in X10        |
 #           |                                                                                      |
 #--------------------------------------------------------------------------------------------------+
 # Author: Joao Barreiros C. Rodrigues (Joao-Ex-Machina)                                            |
@@ -9,5 +9,11 @@ addi x10, x10, 824
 addi x11, x11, 256 #0001 0000 0000
 
 xor x12 x10 x11 
+
+li x17 1
+ecall
+
+li x17 10
+ecall
 
 

@@ -1,6 +1,6 @@
 #--------------------------------------------------------------------------------------------------+
-# Exercise 3|Calculate the second hex algarism of the constant 824								   |
-#           |                  																	   |
+# Exercise 3|Calculate the second hex algarism of the constant 824                                 |
+#           |                                                                                      |
 #--------------------------------------------------------------------------------------------------+
 # Author: Joao Barreiros C. Rodrigues (Joao-Ex-Machina)                                            |
 # Date: 15 March 2021                                                                              |
